@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to watch Movies and TV Shows.
 
-  [![Himesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiwanthah)](https://github.com/anuraghazra/github-readme-stats&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+  ![Himesh's GitHub stats](https://github-readme-stats-five-kappa-67.vercel.app/api?username=shiwanthah&show=prs_merged,prs_merged_percentage&show_icons=true&theme=react)
+  ![Top Langs](https://github-readme-stats-five-kappa-67.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&show_icons=true&theme=react&layout=compact)
 
   
 
