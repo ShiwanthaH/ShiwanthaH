@@ -13,10 +13,7 @@
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
 	-->
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/shiwanthah)
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://user-badge.committers.top/sri_lanka/USERNAME.svg" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
+	<img src="https://user-badge.committers.top/sri_lanka/shiwanthah.svg" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
 
 </p>
 
