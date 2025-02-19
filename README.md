@@ -28,6 +28,7 @@
 - :trophy: SLIIT Codefest Senior Coding Contest 2019- Winner.
 - :trophy: SLIIT CodeCon 2023 - Winner.
 - :trophy: NSBM Duothan 2024 - Winner.
+- :trophy: SLIIT Codefest DevQuest 2024 - Winner.
 - :technologist: I love using Software to solve every `Problem`.
 - :student: I’m currently learning `Information Technology` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
@@ -203,8 +204,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="shiwanthah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shiwanthah&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiwanthah&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="shiwanthah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shiwanthah&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    </a>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
