@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32B661&height=120&section=header" alt="header"/> 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&pause=1000&color=32B661&width=435&lines=Hello%2C+It's+Himesh+Shiwantha;Software+Engineer)](https://git.io/typing-svg)
 
 ###
@@ -144,3 +146,5 @@
 </div>
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32B661&height=120&section=footer" alt="footer"/>
