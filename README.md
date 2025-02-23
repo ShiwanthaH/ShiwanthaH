@@ -11,14 +11,14 @@
 ###
 
 <p align="left">
-- :school: I am an `Undergraduate` at [Faculty of Information Technology](https://uom.lk/itfac) at [University of Moratuwa](https://uom.lk/).
-- :trophy: SLIIT Codefest Senior Coding Contest 2019- Winner.
-- :trophy: SLIIT CodeCon 2023 - Winner.
-- :trophy: NSBM Duothan 2024 - Winner.
-- :trophy: SLIIT Codefest DevQuest 2024 - Winner.
-- :technologist: I love using Software to solve every `Problem`.
-- :student: I’m currently learning `Information Technology` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
+- :school: I am an `Undergraduate` at [Faculty of Information Technology](https://uom.lk/itfac) at [University of Moratuwa](https://uom.lk/).<br>
+- :trophy: SLIIT Codefest Senior Coding Contest 2019- Winner.<br>
+- :trophy: SLIIT CodeCon 2023 - Winner.<br>
+- :trophy: NSBM Duothan 2024 - Winner.<br>
+- :trophy: SLIIT Codefest DevQuest 2024 - Winner.<br>
+- :technologist: I love using Software to solve every `Problem`.<br>
+- :student: I’m currently learning `Information Technology` and `Software Engineering`.<br>
+- :nerd_face: Always `learning new things`.<br>
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://himesh.dev/resume). -->
 - :boom: You can visit [MY WEBSITE](https://himesh.dev/).
 </p>
