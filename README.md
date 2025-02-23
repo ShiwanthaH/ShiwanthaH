@@ -18,7 +18,7 @@
 - :technologist: I love using Software to solve every `Problem`.<br>
 - :nerd_face: Always `learning new things`.<br>
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://himesh.dev/resume). -->
-- :boom: You can visit [MY WEBSITE]('https://himesh.dev/').
+- :boom: You can visit [MY WEBSITE](https://himesh.dev/).
 </p>
 
 ###
