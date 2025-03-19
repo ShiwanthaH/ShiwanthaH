@@ -17,7 +17,7 @@
 - :trophy: SLIIT CodeCon 2023 - Winner<br>
 - :trophy: NSBM Duothan 2024 - Winner<br>
 - :trophy: SLIIT Codefest DevQuest 2024 - Winner<br>
-- :technologist: I love using Software to solve every `Problem`<br>
+- :technologist: I love using Software to solve problems<br>
 - :nerd_face: Always `learning new things`<br>
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://himesh.dev/resume). -->
 - :boom: You can visit [MY WEBSITE](https://himesh.dev).
