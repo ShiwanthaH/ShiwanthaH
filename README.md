@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Himesh, undergraduate at Faculty of Information Technology, University of Moratuwa. Currently working as an Intern Software Engineer @ WSO2</p>
+<p align="left">I'm Himesh, undergraduate at Faculty of Information Technology, University of Moratuwa and former Intern Software Engineer @ WSO2</p>
 
 ###
 
